@@ -1,6 +1,5 @@
 backend:
- name: github # Or gitlab
- repo: digitaldiy/nextjs-netlify-blog-template
+ name: git-gateway
  branch: master # Branch to use
  base_url: https://us-central1-auth-test-809b4.cloudfunctions.net/ # The base URL for your Firebase Function
  auth_endpoint: /oauth/auth # The path to the OAuth endpoint of the function
